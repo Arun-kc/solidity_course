@@ -16,7 +16,7 @@ interface IERC20 {
     event Approval(address indexed owner, address indexed spender, uint value);
 }
 
-contract DefoBank {
+contract DefiBank {
     // Deposit
     // Withdraw
     // Issue Interest
